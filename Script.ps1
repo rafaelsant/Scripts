@@ -1,0 +1,1 @@
+set-itemproperty -path "HKCU:Control Panel\Desktop" -name WallPaper -value "C:\Users\ufu\Documents\m.jpg"
